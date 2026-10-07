@@ -21,3 +21,13 @@
 2. Second step
 
 [Visit GitHub](https://github.com)
+
+## Partners contribution
+
+-My name is Hugh Doyle
+
+### Classes Today
+
+1. Nature of Enterprise Computing
+2. Web Design and User Experience 
+3. Math
